@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
 
 html {
   box-sizing: border-box;
@@ -6,8 +6,9 @@ html {
 
 body {
   margin: 0;
-  font-family: Bebas Neue, sans-serif;
-  background: whitesmoke;
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  background: linear-gradient(rgb(219, 218, 218), rgb(146, 146, 146));
+  color: rgba(161, 112, 207, 0.829);
 }
 
 h1 {
